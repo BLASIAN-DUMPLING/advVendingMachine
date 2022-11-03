@@ -1,0 +1,10 @@
+1::Fanta      ::2.99::8
+2::Canada Dry ::2.49::9
+3::Bang Energy::5.99::8
+4::Lays Chip  ::3.49::9
+5::Cheetos    ::2.99::9
+6::Kit Kat    ::0.99::10
+7::Mentos     ::1.49::9
+8::Wet Wipes  ::0.99::99
+9::Tylenol    ::1.49::100
+10::Aleve     ::1.99::99
